@@ -1,7 +1,6 @@
-# Contributing to the KHDSwap ecosystem 🥞
+# Contributing to the KHDSwap ecosystem 🐍
 
 Thanks for taking the time to contribute !
-You can start by reading our [Contribution guidelines](https://docs.KHDSwapswap.finance/code/contributing) first.
 
 ## Setup
 
